@@ -1,0 +1,9 @@
+name: P-ChatPlugin
+main: pl.polskipalacz.chat.PluginMain
+version: 1.0
+authors: [PoLsKiPaLaCz]
+website: github.com/polskipalacz
+commands:
+  chat:
+    aliases: [cc, chaton]
+    description: Komenda dla admina!

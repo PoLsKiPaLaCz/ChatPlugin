@@ -1,0 +1,7 @@
+messages:
+  chat-off: "&7Chat zostal wylaczony przez administratora&8: &6{ADMIN}"
+  chat-on: "&7Chat zostal wlaczony przez administratora&8: &6{ADMIN}"
+  chat-clear: "&7Chat zostal wyczyscony przez administratora&8: &6{ADMIN}"
+  usage: "&7Poprawne uzycie&8: &6/chat <on/off/clear>"
+  chat-is-off: "&7Chat jest aktualnie wylaczony!"
+  no-perm: "&7Nie masz uprawnien!"
